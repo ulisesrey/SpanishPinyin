@@ -1,0 +1,556 @@
+{
+  "clips": [
+    {
+      "id": "001-wo",
+      "file": "001-wo.mp3",
+      "pinyin": "wǒ",
+      "hanzi": "我"
+    },
+    {
+      "id": "002-women",
+      "file": "002-women.mp3",
+      "pinyin": "wǒmen",
+      "hanzi": "我们"
+    },
+    {
+      "id": "003-ni",
+      "file": "003-ni.mp3",
+      "pinyin": "nǐ",
+      "hanzi": "你"
+    },
+    {
+      "id": "004-ta",
+      "file": "004-ta.mp3",
+      "pinyin": "tā",
+      "hanzi": "他"
+    },
+    {
+      "id": "005-ta",
+      "file": "005-ta.mp3",
+      "pinyin": "tā",
+      "hanzi": "她"
+    },
+    {
+      "id": "009-nar",
+      "file": "009-nar.mp3",
+      "pinyin": "nǎr",
+      "hanzi": "哪儿"
+    },
+    {
+      "id": "011-shenme",
+      "file": "011-shenme.mp3",
+      "pinyin": "shénme",
+      "hanzi": "什么"
+    },
+    {
+      "id": "014-zenme",
+      "file": "014-zenme.mp3",
+      "pinyin": "zěnme",
+      "hanzi": "怎么"
+    },
+    {
+      "id": "015-zenmeyang",
+      "file": "015-zenmeyang.mp3",
+      "pinyin": "zěnmeyàng",
+      "hanzi": "怎么样"
+    },
+    {
+      "id": "016-yi",
+      "file": "016-yi.mp3",
+      "pinyin": "yī",
+      "hanzi": "一"
+    },
+    {
+      "id": "017-er",
+      "file": "017-er.mp3",
+      "pinyin": "èr",
+      "hanzi": "二"
+    },
+    {
+      "id": "018-san",
+      "file": "018-san.mp3",
+      "pinyin": "sān",
+      "hanzi": "三"
+    },
+    {
+      "id": "020-wu",
+      "file": "020-wu.mp3",
+      "pinyin": "wǔ",
+      "hanzi": "五"
+    },
+    {
+      "id": "021-liu",
+      "file": "021-liu.mp3",
+      "pinyin": "liù",
+      "hanzi": "六"
+    },
+    {
+      "id": "022-qi",
+      "file": "022-qi.mp3",
+      "pinyin": "qī",
+      "hanzi": "七"
+    },
+    {
+      "id": "023-ba",
+      "file": "023-ba.mp3",
+      "pinyin": "bā",
+      "hanzi": "八"
+    },
+    {
+      "id": "024-jiu",
+      "file": "024-jiu.mp3",
+      "pinyin": "jiǔ",
+      "hanzi": "九"
+    },
+    {
+      "id": "025-shi",
+      "file": "025-shi.mp3",
+      "pinyin": "shí",
+      "hanzi": "十"
+    },
+    {
+      "id": "031-bu",
+      "file": "031-bu.mp3",
+      "pinyin": "bù",
+      "hanzi": "不"
+    },
+    {
+      "id": "033-hen",
+      "file": "033-hen.mp3",
+      "pinyin": "hěn",
+      "hanzi": "很"
+    },
+    {
+      "id": "034-tai",
+      "file": "034-tai.mp3",
+      "pinyin": "tài",
+      "hanzi": "太"
+    },
+    {
+      "id": "036-yidianr",
+      "file": "036-yidianr.mp3",
+      "pinyin": "yīdiǎnr",
+      "hanzi": "一点儿"
+    },
+    {
+      "id": "038-zai",
+      "file": "038-zai.mp3",
+      "pinyin": "zài",
+      "hanzi": "在"
+    },
+    {
+      "id": "039-de",
+      "file": "039-de.mp3",
+      "pinyin": "de",
+      "hanzi": "的"
+    },
+    {
+      "id": "040-le",
+      "file": "040-le.mp3",
+      "pinyin": "le",
+      "hanzi": "了"
+    },
+    {
+      "id": "044-jia",
+      "file": "044-jia.mp3",
+      "pinyin": "jiā",
+      "hanzi": "家"
+    },
+    {
+      "id": "046-fandian",
+      "file": "046-fandian.mp3",
+      "pinyin": "fàndiàn",
+      "hanzi": "饭店"
+    },
+    {
+      "id": "047-shangdian",
+      "file": "047-shangdian.mp3",
+      "pinyin": "shāngdiàn",
+      "hanzi": "商店"
+    },
+    {
+      "id": "050-beijing",
+      "file": "050-beijing.mp3",
+      "pinyin": "Běijīng",
+      "hanzi": "北京"
+    },
+    {
+      "id": "052-xia",
+      "file": "052-xia.mp3",
+      "pinyin": "xià",
+      "hanzi": "下"
+    },
+    {
+      "id": "056-jintian",
+      "file": "056-jintian.mp3",
+      "pinyin": "jīntiān",
+      "hanzi": "今天"
+    },
+    {
+      "id": "057-mingtian",
+      "file": "057-mingtian.mp3",
+      "pinyin": "míngtiān",
+      "hanzi": "明天"
+    },
+    {
+      "id": "058-zuotian",
+      "file": "058-zuotian.mp3",
+      "pinyin": "zuótiān",
+      "hanzi": "昨天"
+    },
+    {
+      "id": "059-shangwu",
+      "file": "059-shangwu.mp3",
+      "pinyin": "shàngwǔ",
+      "hanzi": "上午"
+    },
+    {
+      "id": "060-zhongwu",
+      "file": "060-zhongwu.mp3",
+      "pinyin": "zhōngwǔ",
+      "hanzi": "中午"
+    },
+    {
+      "id": "061-xiawu",
+      "file": "061-xiawu.mp3",
+      "pinyin": "xiàwǔ",
+      "hanzi": "下午"
+    },
+    {
+      "id": "062-nian",
+      "file": "062-nian.mp3",
+      "pinyin": "nián",
+      "hanzi": "年"
+    },
+    {
+      "id": "063-yue",
+      "file": "063-yue.mp3",
+      "pinyin": "yuè",
+      "hanzi": "月"
+    },
+    {
+      "id": "065-xingqi",
+      "file": "065-xingqi.mp3",
+      "pinyin": "xīngqī",
+      "hanzi": "星期"
+    },
+    {
+      "id": "067-fenzhong",
+      "file": "067-fenzhong.mp3",
+      "pinyin": "fēnzhōng",
+      "hanzi": "分钟"
+    },
+    {
+      "id": "068-xianzai",
+      "file": "068-xianzai.mp3",
+      "pinyin": "xiànzài",
+      "hanzi": "现在"
+    },
+    {
+      "id": "069-shihou",
+      "file": "069-shihou.mp3",
+      "pinyin": "shíhou",
+      "hanzi": "时候"
+    },
+    {
+      "id": "070-baba",
+      "file": "070-baba.mp3",
+      "pinyin": "bàba",
+      "hanzi": "爸爸"
+    },
+    {
+      "id": "071-mama",
+      "file": "071-mama.mp3",
+      "pinyin": "māma",
+      "hanzi": "妈妈"
+    },
+    {
+      "id": "073-nuer",
+      "file": "073-nuer.mp3",
+      "pinyin": "nǚér",
+      "hanzi": "女儿"
+    },
+    {
+      "id": "074-laoshi",
+      "file": "074-laoshi.mp3",
+      "pinyin": "lǎoshī",
+      "hanzi": "老师"
+    },
+    {
+      "id": "077-pengyou",
+      "file": "077-pengyou.mp3",
+      "pinyin": "péngyǒu",
+      "hanzi": "朋友"
+    },
+    {
+      "id": "079-xiansheng",
+      "file": "079-xiansheng.mp3",
+      "pinyin": "xiānsheng",
+      "hanzi": "先生"
+    },
+    {
+      "id": "080-xiaojie",
+      "file": "080-xiaojie.mp3",
+      "pinyin": "xiǎojiě",
+      "hanzi": "小姐"
+    },
+    {
+      "id": "081-yifu",
+      "file": "081-yifu.mp3",
+      "pinyin": "yīfu",
+      "hanzi": "衣服"
+    },
+    {
+      "id": "082-shui",
+      "file": "082-shui.mp3",
+      "pinyin": "shuǐ",
+      "hanzi": "水"
+    },
+    {
+      "id": "083-cai",
+      "file": "083-cai.mp3",
+      "pinyin": "cài",
+      "hanzi": "菜"
+    },
+    {
+      "id": "085-shuiguo",
+      "file": "085-shuiguo.mp3",
+      "pinyin": "shuǐguǒ",
+      "hanzi": "水果"
+    },
+    {
+      "id": "087-cha",
+      "file": "087-cha.mp3",
+      "pinyin": "chá",
+      "hanzi": "茶"
+    },
+    {
+      "id": "088-beizi",
+      "file": "088-beizi.mp3",
+      "pinyin": "bēizi",
+      "hanzi": "杯子"
+    },
+    {
+      "id": "090-feiji",
+      "file": "090-feiji.mp3",
+      "pinyin": "fēijī",
+      "hanzi": "飞机"
+    },
+    {
+      "id": "092-dianshi",
+      "file": "092-dianshi.mp3",
+      "pinyin": "diànshì",
+      "hanzi": "电视"
+    },
+    {
+      "id": "093-diannao",
+      "file": "093-diannao.mp3",
+      "pinyin": "diànnǎo",
+      "hanzi": "电脑"
+    },
+    {
+      "id": "094-dianying",
+      "file": "094-dianying.mp3",
+      "pinyin": "diànyǐng",
+      "hanzi": "电影"
+    },
+    {
+      "id": "098-dongxi",
+      "file": "098-dongxi.mp3",
+      "pinyin": "dōngxi",
+      "hanzi": "东西"
+    },
+    {
+      "id": "099-ren",
+      "file": "099-ren.mp3",
+      "pinyin": "rén",
+      "hanzi": "人"
+    },
+    {
+      "id": "100-mingzi",
+      "file": "100-mingzi.mp3",
+      "pinyin": "míngzi",
+      "hanzi": "名字"
+    },
+    {
+      "id": "102-hanyu",
+      "file": "102-hanyu.mp3",
+      "pinyin": "hànyǔ",
+      "hanzi": "汉语"
+    },
+    {
+      "id": "103-zi",
+      "file": "103-zi.mp3",
+      "pinyin": "zì",
+      "hanzi": "字"
+    },
+    {
+      "id": "104-zhuozi",
+      "file": "104-zhuozi.mp3",
+      "pinyin": "zhuōzi",
+      "hanzi": "桌子"
+    },
+    {
+      "id": "105-yizi",
+      "file": "105-yizi.mp3",
+      "pinyin": "yǐzi",
+      "hanzi": "椅子"
+    },
+    {
+      "id": "106-xiexie",
+      "file": "106-xiexie.mp3",
+      "pinyin": "xièxie",
+      "hanzi": "谢谢"
+    },
+    {
+      "id": "108-zaijian",
+      "file": "108-zaijian.mp3",
+      "pinyin": "zàijiàn",
+      "hanzi": "再见"
+    },
+    {
+      "id": "110-duibuqi",
+      "file": "110-duibuqi.mp3",
+      "pinyin": "duìbùqǐ",
+      "hanzi": "对不起"
+    },
+    {
+      "id": "112-shi",
+      "file": "112-shi.mp3",
+      "pinyin": "shì",
+      "hanzi": "是"
+    },
+    {
+      "id": "113-you",
+      "file": "113-you.mp3",
+      "pinyin": "yǒu",
+      "hanzi": "有"
+    },
+    {
+      "id": "114-kan",
+      "file": "114-kan.mp3",
+      "pinyin": "kàn",
+      "hanzi": "看"
+    },
+    {
+      "id": "115-ting",
+      "file": "115-ting.mp3",
+      "pinyin": "tīng",
+      "hanzi": "听"
+    },
+    {
+      "id": "119-kanjian",
+      "file": "119-kanjian.mp3",
+      "pinyin": "kànjiàn",
+      "hanzi": "看见"
+    },
+    {
+      "id": "120-jiao",
+      "file": "120-jiao.mp3",
+      "pinyin": "jiào",
+      "hanzi": "叫"
+    },
+    {
+      "id": "122-hui",
+      "file": "122-hui.mp3",
+      "pinyin": "huí",
+      "hanzi": "回"
+    },
+    {
+      "id": "123-qu",
+      "file": "123-qu.mp3",
+      "pinyin": "qù",
+      "hanzi": "去"
+    },
+    {
+      "id": "124-chi",
+      "file": "124-chi.mp3",
+      "pinyin": "chī",
+      "hanzi": "吃"
+    },
+    {
+      "id": "125-he",
+      "file": "125-he.mp3",
+      "pinyin": "hē",
+      "hanzi": "喝"
+    },
+    {
+      "id": "126-shuijiao",
+      "file": "126-shuijiao.mp3",
+      "pinyin": "shuìjiào",
+      "hanzi": "睡觉"
+    },
+    {
+      "id": "131-zuo",
+      "file": "131-zuo.mp3",
+      "pinyin": "zuò",
+      "hanzi": "坐"
+    },
+    {
+      "id": "133-xuexi",
+      "file": "133-xuexi.mp3",
+      "pinyin": "xuéxí",
+      "hanzi": "学习"
+    },
+    {
+      "id": "134-gongzuo",
+      "file": "134-gongzuo.mp3",
+      "pinyin": "gōngzuò",
+      "hanzi": "工作"
+    },
+    {
+      "id": "135-xiayu",
+      "file": "135-xiayu.mp3",
+      "pinyin": "xiàyǔ",
+      "hanzi": "下雨"
+    },
+    {
+      "id": "137-xihuan",
+      "file": "137-xihuan.mp3",
+      "pinyin": "xǐhuān",
+      "hanzi": "喜欢"
+    },
+    {
+      "id": "139-renshi",
+      "file": "139-renshi.mp3",
+      "pinyin": "rènshi",
+      "hanzi": "认识"
+    },
+    {
+      "id": "141-neng",
+      "file": "141-neng.mp3",
+      "pinyin": "néng",
+      "hanzi": "能"
+    },
+    {
+      "id": "142-hao",
+      "file": "142-hao.mp3",
+      "pinyin": "hǎo",
+      "hanzi": "好"
+    },
+    {
+      "id": "143-da",
+      "file": "143-da.mp3",
+      "pinyin": "dà",
+      "hanzi": "大"
+    },
+    {
+      "id": "144-xiao",
+      "file": "144-xiao.mp3",
+      "pinyin": "xiǎo",
+      "hanzi": "小"
+    },
+    {
+      "id": "149-gaoxing",
+      "file": "149-gaoxing.mp3",
+      "pinyin": "gāoxìng",
+      "hanzi": "高兴"
+    },
+    {
+      "id": "150-piaoliang",
+      "file": "150-piaoliang.mp3",
+      "pinyin": "piàoliang",
+      "hanzi": "漂亮"
+    }
+  ]
+}

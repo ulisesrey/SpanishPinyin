@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "dependencies": {
     "@expo/ui": "~57.0.14",
+    "@supabase/supabase-js": "^2.112.4",
     "expo": "~57.0.18",
+    "expo-audio": "~57.0.4",
     "expo-constants": "~57.0.16",
     "expo-device": "~57.0.1",
     "expo-font": "~57.0.2",
@@ -29,6 +31,7 @@
   },
   "devDependencies": {
     "@types/react": "~19.2.2",
+    "gh-pages": "^6.3.0",
     "typescript": "~6.0.3"
   },
   "scripts": {
@@ -37,7 +40,11 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "import-clips": "node ./scripts/import-clips.js",
+    "build-corpus": "node ./scripts/build-corpus.js",
+    "predeploy": "expo export -p web",
+    "deploy": "gh-pages --nojekyll -d dist"
   },
   "private": true
 }
